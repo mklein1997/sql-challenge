@@ -4,4 +4,4 @@ Build a SQL database using imported CSV files. Gather a deeper understanding of 
 The code consists of queries run in pgAdmin 4, using joins.
 
 ERD Diagram:
-![alt text](https://github.com/mklein1997/sql-challenge/blob/main/erd.png?raw=true)
+[ERD](https://ibb.co/bFxbMbD)
